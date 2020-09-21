@@ -1,0 +1,10 @@
+C:\Users\Milica\Desktop\GIT\Fakturisanje\Fakturisanje\bin\Debug\DomaciDC.exe.config
+C:\Users\Milica\Desktop\GIT\Fakturisanje\Fakturisanje\bin\Debug\DomaciDC.exe
+C:\Users\Milica\Desktop\GIT\Fakturisanje\Fakturisanje\bin\Debug\DomaciDC.pdb
+C:\Users\Milica\Desktop\GIT\Fakturisanje\Fakturisanje\obj\Debug\Fakturisanje.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\GIT\Fakturisanje\Fakturisanje\obj\Debug\DomaciDC.Form1.resources
+C:\Users\Milica\Desktop\GIT\Fakturisanje\Fakturisanje\obj\Debug\DomaciDC.Properties.Resources.resources
+C:\Users\Milica\Desktop\GIT\Fakturisanje\Fakturisanje\obj\Debug\Fakturisanje.csproj.GenerateResource.cache
+C:\Users\Milica\Desktop\GIT\Fakturisanje\Fakturisanje\obj\Debug\Fakturisanje.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\GIT\Fakturisanje\Fakturisanje\obj\Debug\DomaciDC.exe
+C:\Users\Milica\Desktop\GIT\Fakturisanje\Fakturisanje\obj\Debug\DomaciDC.pdb

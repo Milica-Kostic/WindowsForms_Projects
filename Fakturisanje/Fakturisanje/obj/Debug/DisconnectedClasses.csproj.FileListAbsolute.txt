@@ -1,0 +1,10 @@
+C:\Users\Milica\Desktop\GIT\DisconnectedClasses\DisconnectedClasses\bin\Debug\DomaciDC.exe.config
+C:\Users\Milica\Desktop\GIT\DisconnectedClasses\DisconnectedClasses\bin\Debug\DomaciDC.exe
+C:\Users\Milica\Desktop\GIT\DisconnectedClasses\DisconnectedClasses\bin\Debug\DomaciDC.pdb
+C:\Users\Milica\Desktop\GIT\DisconnectedClasses\DisconnectedClasses\obj\Debug\DisconnectedClasses.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\GIT\DisconnectedClasses\DisconnectedClasses\obj\Debug\DomaciDC.Form1.resources
+C:\Users\Milica\Desktop\GIT\DisconnectedClasses\DisconnectedClasses\obj\Debug\DomaciDC.Properties.Resources.resources
+C:\Users\Milica\Desktop\GIT\DisconnectedClasses\DisconnectedClasses\obj\Debug\DisconnectedClasses.csproj.GenerateResource.cache
+C:\Users\Milica\Desktop\GIT\DisconnectedClasses\DisconnectedClasses\obj\Debug\DisconnectedClasses.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\GIT\DisconnectedClasses\DisconnectedClasses\obj\Debug\DomaciDC.exe
+C:\Users\Milica\Desktop\GIT\DisconnectedClasses\DisconnectedClasses\obj\Debug\DomaciDC.pdb

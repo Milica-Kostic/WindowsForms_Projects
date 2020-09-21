@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fakturisanje", "Fakturisanje\Fakturisanje.csproj", "{92DB0328-46B2-46AC-8E4E-B355363C348D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92DB0328-46B2-46AC-8E4E-B355363C348D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DB0328-46B2-46AC-8E4E-B355363C348D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DB0328-46B2-46AC-8E4E-B355363C348D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DB0328-46B2-46AC-8E4E-B355363C348D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589B0717-1412-4E62-8440-79D7EF0F2CE0}
+	EndGlobalSection
+EndGlobal
