@@ -1,0 +1,15 @@
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\bin\Debug\ADO.NETEntityCodeFirst.exe.config
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\bin\Debug\ADO.NETEntityCodeFirst.exe
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\bin\Debug\ADO.NETEntityCodeFirst.pdb
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\bin\Debug\EntityFramework.dll
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\bin\Debug\EntityFramework.xml
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\obj\Debug\KlijentServisApp.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\obj\Debug\ADO.NETEntityCodeFirst.Form1.resources
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\obj\Debug\ADO.NETEntityCodeFirst.Properties.Resources.resources
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\obj\Debug\KlijentServisApp.csproj.GenerateResource.cache
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\obj\Debug\KlijentServisApp.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\obj\Debug\KlijentServisApp.csproj.CopyComplete
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\obj\Debug\ADO.NETEntityCodeFirst.exe
+C:\Users\Milica\Desktop\GIT\KlijentServisApp\KlijentServisApp\obj\Debug\ADO.NETEntityCodeFirst.pdb
