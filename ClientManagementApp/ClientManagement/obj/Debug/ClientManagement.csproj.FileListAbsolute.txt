@@ -1,0 +1,15 @@
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\bin\Debug\DomaciCRUD.exe.config
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\bin\Debug\DomaciCRUD.exe
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\bin\Debug\DomaciCRUD.pdb
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\bin\Debug\ClCRUD.dll
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\bin\Debug\ClCRUD.pdb
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\obj\Debug\ClientManagement.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\obj\Debug\DomaciCRUD.frmPocetna.resources
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\obj\Debug\DomaciCRUD.frmInsertcs.resources
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\obj\Debug\DomaciCRUD.frmUpdate.resources
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\obj\Debug\DomaciCRUD.Properties.Resources.resources
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\obj\Debug\ClientManagement.csproj.GenerateResource.cache
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\obj\Debug\ClientManagement.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\obj\Debug\ClientManagement.csproj.CopyComplete
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\obj\Debug\DomaciCRUD.exe
+C:\Users\Milica\Desktop\GIT\ClientManagement\ClientManagement\obj\Debug\DomaciCRUD.pdb

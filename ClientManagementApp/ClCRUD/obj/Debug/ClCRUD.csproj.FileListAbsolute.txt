@@ -1,0 +1,12 @@
+C:\Users\Milica\source\repos\SolDomaciCRUD\ClCRUD\bin\Debug\ClCRUD.dll
+C:\Users\Milica\source\repos\SolDomaciCRUD\ClCRUD\bin\Debug\ClCRUD.pdb
+C:\Users\Milica\source\repos\SolDomaciCRUD\ClCRUD\obj\Debug\ClCRUD.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\SolDomaciCRUD\ClCRUD\obj\Debug\ClCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\SolDomaciCRUD\ClCRUD\obj\Debug\ClCRUD.dll
+C:\Users\Milica\source\repos\SolDomaciCRUD\ClCRUD\obj\Debug\ClCRUD.pdb
+D:\Faks\SolDomaciCRUD\ClCRUD\bin\Debug\ClCRUD.dll
+D:\Faks\SolDomaciCRUD\ClCRUD\bin\Debug\ClCRUD.pdb
+D:\Faks\SolDomaciCRUD\ClCRUD\obj\Debug\ClCRUD.csprojAssemblyReference.cache
+D:\Faks\SolDomaciCRUD\ClCRUD\obj\Debug\ClCRUD.csproj.CoreCompileInputs.cache
+D:\Faks\SolDomaciCRUD\ClCRUD\obj\Debug\ClCRUD.dll
+D:\Faks\SolDomaciCRUD\ClCRUD\obj\Debug\ClCRUD.pdb
